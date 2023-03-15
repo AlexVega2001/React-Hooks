@@ -1,4 +1,3 @@
-import { cleanup } from '@testing-library/react';
 import React, { useEffect, useState } from 'react';
 
 export const Message = () => {
